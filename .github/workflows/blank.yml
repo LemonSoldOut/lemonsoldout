@@ -14,5 +14,3 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          Secret. Name: WAKATIME_API_KEY, Value: 224a8dfa-c223-4360-b2ee-fc1e2ae1d258
-          SHOW_TITLE: true
