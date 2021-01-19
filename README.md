@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
 ```text
-Git Config   2 mins          ████████████████████████░   95.43 % 
+Java    50 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
