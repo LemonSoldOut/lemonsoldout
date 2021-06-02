@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
 ```text
-Java         34 mins         ██████████████████████▒░░   89.05 % 
-Git Config   4 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
+Java         21 mins         ████████████████████▓░░░░   83.30 % 
+Git Config   4 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
 ```
 <!--END_SECTION:waka-->
 
