@@ -1,6 +1,10 @@
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Java    2 hrs 15 mins   ████████████▒░░░░░░░░░░░░   49.36 % 
+HTML    54 mins         █████░░░░░░░░░░░░░░░░░░░░   20.02 % 
+XML     42 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.29 % 
+YAML    36 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.37 % 
+Other   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
 ```
 <!--END_SECTION:waka-->
 
