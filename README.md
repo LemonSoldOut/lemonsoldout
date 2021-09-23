@@ -1,6 +1,6 @@
 <!--START_SECTION:waka-->
 ```text
-
+Java   6 mins          █████████████████████▓░░░   86.96 % 
 ```
 <!--END_SECTION:waka-->
 
