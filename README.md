@@ -13,4 +13,4 @@ No Activity tracked this Week
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lemonsoldout&show_icons=true&theme=radical)
 
-<iframe src="https://discord.com/widget?id=666884615717388289&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+<!-- <iframe src="https://discord.com/widget?id=666884615717388289&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe> -->
