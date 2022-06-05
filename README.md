@@ -10,6 +10,7 @@ No Activity tracked this Week
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lemonsoldout&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+![Metrics](https://metrics.lecoq.io/lemonsoldout?template=classic&base.indepth=false&base.hireable=false&config.timezone=America%2FNew_York)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lemonsoldout&show_icons=true&theme=radical)
 
