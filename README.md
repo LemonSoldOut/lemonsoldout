@@ -12,8 +12,10 @@ No Activity tracked this Week
 
 ![Metrics](https://metrics.lecoq.io/lemonsoldout?template=classic&base.indepth=false&base.hireable=false&config.timezone=America%2FNew_York)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lemonsoldout&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lemonsoldout&show_icons=true&theme=dracula)
 
-<div align="center"> <img src="https://metrics.lecoq.io/sun0225SUN?template=classic&config.timezone=Asia%2FShanghai"> </div>
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=lemonsoldout&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 
 <!-- <iframe src="https://discord.com/widget?id=666884615717388289&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe> -->
