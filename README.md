@@ -14,6 +14,7 @@ No Activity tracked this Week
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lemonsoldout&show_icons=true&theme=dracula)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=%E4%B8%89%E5%A4%A9%E6%89%93%E9%B1%BC+%E4%B8%A4%E5%A4%A9%E6%99%92%E7%BD%91+%E4%B8%80%E5%A4%A9%E8%B5%B6%E4%BD%9C%E4%B8%9A%E3%80%82)](https://git.io/typing-svg)
 
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=lemonsoldout&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
