@@ -11,7 +11,8 @@ No Activity tracked this Week
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> 
 <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" />
 
-<img src="https://img.shields.io/badge/-Golang-oringe?style=for-the-badge&logo=[Golang](https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/golang.svg)" />
+<a href="https://github.com/snowdreams1006"><img src="https://img.shields.io/badge/github-snowdreams1006-brightgreen.svg" alt="github"></a>
+
 
 ![LeetCode Stats](https://stats.justsong.cn/api/leetcode/?username=lemonsoldout)
 
