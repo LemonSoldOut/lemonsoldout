@@ -3,9 +3,7 @@
 <!-- 打字效果 -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kdam+Thmor+Pro&color=31F7F2&center=true&vCenter=true&lines=echo+%22%E4%BD%A0%E5%A5%BD+%E4%B8%96%E7%95%8C%EF%BC%81%22)](https://git.io/typing-svg)
 
-
-<a href="https://github.com/snowdreams1006"><img src="https://img.shields.io/badge/github-snowdreams1006-brightgreen.svg" alt="github"></a>
-
+![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lemonsoldout&theme=vue)
 
 ![LeetCode Stats](https://stats.justsong.cn/api/leetcode/?username=lemonsoldout)
 
@@ -119,7 +117,7 @@
 
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
 
-![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lemonsoldout&theme=vue)
+
 
 
 ![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lemonsoldout)
