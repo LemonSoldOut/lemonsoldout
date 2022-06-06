@@ -5,8 +5,9 @@
 
 <!-- Github 统计记录 -->
 ![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lemonsoldout&theme=vue)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=lemonsoldout&show_icons=true&theme=dracula)
 ![Github activity graph](https://activity-graph.herokuapp.com/graph?username=lemonsoldout&theme=github)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=lemonsoldout&show_icons=true&theme=dracula)
+
 
 <!-- LeetCode 做题记录 -->
 ![LeetCode Stats](https://stats.justsong.cn/api/leetcode/?username=lemonsoldout)
