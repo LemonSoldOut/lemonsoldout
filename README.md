@@ -2,16 +2,16 @@
 ![Image](https://camo.githubusercontent.com/6d0807a19a969691c057a01844d93e97e6423ff29f84678ecac1a6e66afe1edd/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f70686f746f732f696d616765732f3230323131303331313932343834342e706e67)
 
 
-## whoami
-
+## Hello
 <!-- 打字效果 -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kdam+Thmor+Pro&color=31F7F2&center=true&vCenter=true&lines=echo+%22%E4%BD%A0%E5%A5%BD+%E4%B8%96%E7%95%8C%EF%BC%81%22)](https://git.io/typing-svg)
 
-## Github 统计
+## whoami
+
+
+## Github stats
 <!-- Github 统计记录 -->
 ![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lemonsoldout&theme=vue)
-
-
 ![Github activity graph](https://activity-graph.herokuapp.com/graph?username=lemonsoldout&theme=github)
 <!-- 编程语言使用百分比 -->
 
@@ -21,16 +21,12 @@
   
 </div>
 
-
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lemonsoldout&layout=compact)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=lemonsoldout&show_icons=true&theme=dracula) -->
-
-
+## LeetCode
 <!-- LeetCode 做题记录 -->
 ![LeetCode Stats](https://stats.justsong.cn/api/leetcode/?username=lemonsoldout)
 
 
-
+## Pinned REPO
 <!-- 想要展示的 REPO -->
 [![Shell Repo](https://github-readme-stats.vercel.app/api/pin/?username=lemonsoldout&repo=shell)](https://github.com/lemonsoldout/shell)
 [![Shell Repo](https://github-readme-stats.vercel.app/api/pin/?username=lemonsoldout&repo=lemon)](https://github.com/lemonsoldout/lemon)
@@ -54,11 +50,11 @@
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-## 学习网站
+## 学习 Website
 ![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347)
 ![MDN](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
 
-## ETL
+## ETL 工具
 ![Talend](https://img.shields.io/badge/Talend-FF6D70?style=for-the-badge&logo=Talend&logoColor=white)
 
 ![Alteryx](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI5My44MzAwMDAwMDAwMDAwMSIgaGVpZ2h0PSIzNSIgdmlld0JveD0iMCAwIDkzLjgzMDAwMDAwMDAwMDAxIDM1Ij48cmVjdCBjbGFzcz0ic3ZnX19yZWN0IiB4PSIwIiB5PSIwIiB3aWR0aD0iOTMuODMwMDAwMDAwMDAwMDEiIGhlaWdodD0iMzUiIGZpbGw9IiMzMUM0RjMiLz48cmVjdCBjbGFzcz0ic3ZnX19yZWN0IiB4PSI5My44MzAwMDAwMDAwMDAwMSIgeT0iMCIgd2lkdGg9IjAiIGhlaWdodD0iMzUiIGZpbGw9IiMzODlBRDUiLz48cGF0aCBjbGFzcz0ic3ZnX190ZXh0IiBkPSJNMTUuMDAgMjJMMTMuNDYgMjJMMTYuNjggMTMuNDdMMTguMDEgMTMuNDdMMjEuMjQgMjJMMTkuNjkgMjJMMTguOTkgMjAuMDFMMTUuNjkgMjAuMDFMMTUuMDAgMjJaTTE3LjM0IDE1LjI4TDE2LjEwIDE4LjgyTDE4LjU4IDE4LjgyTDE3LjM0IDE1LjI4Wk0zMC41NSAyMkwyNS4xOSAyMkwyNS4xOSAxMy40N0wyNi42NyAxMy40N0wyNi42NyAyMC44MkwzMC41NSAyMC44MkwzMC41NSAyMlpNMzYuMzUgMTQuNjZMMzMuNzIgMTQuNjZMMzMuNzIgMTMuNDdMNDAuNDggMTMuNDdMNDAuNDggMTQuNjZMMzcuODIgMTQuNjZMMzcuODIgMjJMMzYuMzUgMjJMMzYuMzUgMTQuNjZaTTQ5LjgyIDIyTDQ0LjI0IDIyTDQ0LjI0IDEzLjQ3TDQ5Ljc4IDEzLjQ3TDQ5Ljc4IDE0LjY2TDQ1LjcyIDE0LjY2TDQ1LjcyIDE3LjAyTDQ5LjIzIDE3LjAyTDQ5LjIzIDE4LjE5TDQ1LjcyIDE4LjE5TDQ1LjcyIDIwLjgyTDQ5LjgyIDIwLjgyTDQ5LjgyIDIyWk01NS41MCAyMkw1NC4wMSAyMkw1NC4wMSAxMy40N0w1Ny4wMSAxMy40N1E1OC40OSAxMy40NyA1OS4yOSAxNC4xM1E2MC4xMCAxNC43OSA2MC4xMCAxNi4wNUw2MC4xMCAxNi4wNVE2MC4xMCAxNi45MCA1OS42OCAxNy40OFE1OS4yNyAxOC4wNiA1OC41MyAxOC4zN0w1OC41MyAxOC4zN0w2MC40NSAyMS45Mkw2MC40NSAyMkw1OC44NiAyMkw1Ny4xNSAxOC43MUw1NS41MCAxOC43MUw1NS41MCAyMlpNNTUuNTAgMTQuNjZMNTUuNTAgMTcuNTJMNTcuMDIgMTcuNTJRNTcuNzcgMTcuNTIgNTguMTkgMTcuMTVRNTguNjEgMTYuNzcgNTguNjEgMTYuMTFMNTguNjEgMTYuMTFRNTguNjEgMTUuNDMgNTguMjIgMTUuMDVRNTcuODMgMTQuNjggNTcuMDYgMTQuNjZMNTcuMDYgMTQuNjZMNTUuNTAgMTQuNjZaTTY2LjUzIDE4Ljg2TDYzLjY2IDEzLjQ3TDY1LjMxIDEzLjQ3TDY3LjI3IDE3LjUxTDY5LjI0IDEzLjQ3TDcwLjg4IDEzLjQ3TDY4LjAyIDE4Ljg2TDY4LjAyIDIyTDY2LjUzIDIyTDY2LjUzIDE4Ljg2Wk03NS44OSAyMkw3NC4xNiAyMkw3Ni44MSAxNy43MEw3NC4yMiAxMy40N0w3NS45MyAxMy40N0w3Ny43MyAxNi41NUw3OS41MiAxMy40N0w4MS4yMyAxMy40N0w3OC42NSAxNy43MEw4MS4yOSAyMkw3OS41NiAyMkw3Ny43MyAxOC44N0w3NS44OSAyMloiIGZpbGw9IiNGRkZGRkYiLz48cGF0aCBjbGFzcz0ic3ZnX190ZXh0IiBkPSIiIGZpbGw9IiNGRkZGRkYiIHg9IjEwNi44MzAwMDAwMDAwMDAwMSIvPjwvc3ZnPg==)
