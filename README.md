@@ -2,14 +2,17 @@
 ![Image](https://camo.githubusercontent.com/6d0807a19a969691c057a01844d93e97e6423ff29f84678ecac1a6e66afe1edd/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f70686f746f732f696d616765732f3230323131303331313932343834342e706e67)
 
 
-![Linus Words](https://fastly.jsdelivr.net/gh/lemonsoldout/blog_links@main/1654485150148358165.jpg)
+## whoami
 
 <!-- 打字效果 -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kdam+Thmor+Pro&color=31F7F2&center=true&vCenter=true&lines=echo+%22%E4%BD%A0%E5%A5%BD+%E4%B8%96%E7%95%8C%EF%BC%81%22)](https://git.io/typing-svg)
 
+## Github 统计
 <!-- Github 统计记录 -->
 ![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lemonsoldout&theme=vue)
-![Github activity graph](https://activity-graph.herokuapp.com/graph?username=lemonsoldout&theme=github)
+
+<img height="137px" src="https://activity-graph.herokuapp.com/graph?username=lemonsoldout&theme=github" style="max-width: 100%;">
+<!-- ![Github activity graph](https://activity-graph.herokuapp.com/graph?username=lemonsoldout&theme=github) -->
 <!-- 编程语言使用百分比 -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lemonsoldout&layout=compact)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=lemonsoldout&show_icons=true&theme=dracula)
