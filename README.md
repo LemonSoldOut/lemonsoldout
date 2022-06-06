@@ -11,8 +11,8 @@
 <!-- Github 统计记录 -->
 ![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lemonsoldout&theme=vue)
 
-<img height="137px" src="https://activity-graph.herokuapp.com/graph?username=lemonsoldout&theme=github" style="max-width: 100%;">
-<!-- ![Github activity graph](https://activity-graph.herokuapp.com/graph?username=lemonsoldout&theme=github) -->
+
+![Github activity graph](https://activity-graph.herokuapp.com/graph?username=lemonsoldout&theme=github)
 <!-- 编程语言使用百分比 -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lemonsoldout&layout=compact)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=lemonsoldout&show_icons=true&theme=dracula)
