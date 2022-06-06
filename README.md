@@ -33,20 +33,47 @@
 
 
 ## 已获得技能 Skills
+![Python3](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Github Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Font Awesome](https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+
 ![MySQL8.x](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![MS SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+
 
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![Microsoft Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
 ![WeChat](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white)
 
 
-## 正在学习
 
+
+## 正在学习
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
 
 
 ## 计划学习
-
+![Electron](https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9)
+![Junit5](https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![json](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![LaTex](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324)
 
 
 ## 云服务 Cloud Server
@@ -72,36 +99,30 @@
 ![Alteryx](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI5My44MzAwMDAwMDAwMDAwMSIgaGVpZ2h0PSIzNSIgdmlld0JveD0iMCAwIDkzLjgzMDAwMDAwMDAwMDAxIDM1Ij48cmVjdCBjbGFzcz0ic3ZnX19yZWN0IiB4PSIwIiB5PSIwIiB3aWR0aD0iOTMuODMwMDAwMDAwMDAwMDEiIGhlaWdodD0iMzUiIGZpbGw9IiMzMUM0RjMiLz48cmVjdCBjbGFzcz0ic3ZnX19yZWN0IiB4PSI5My44MzAwMDAwMDAwMDAwMSIgeT0iMCIgd2lkdGg9IjAiIGhlaWdodD0iMzUiIGZpbGw9IiMzODlBRDUiLz48cGF0aCBjbGFzcz0ic3ZnX190ZXh0IiBkPSJNMTUuMDAgMjJMMTMuNDYgMjJMMTYuNjggMTMuNDdMMTguMDEgMTMuNDdMMjEuMjQgMjJMMTkuNjkgMjJMMTguOTkgMjAuMDFMMTUuNjkgMjAuMDFMMTUuMDAgMjJaTTE3LjM0IDE1LjI4TDE2LjEwIDE4LjgyTDE4LjU4IDE4LjgyTDE3LjM0IDE1LjI4Wk0zMC41NSAyMkwyNS4xOSAyMkwyNS4xOSAxMy40N0wyNi42NyAxMy40N0wyNi42NyAyMC44MkwzMC41NSAyMC44MkwzMC41NSAyMlpNMzYuMzUgMTQuNjZMMzMuNzIgMTQuNjZMMzMuNzIgMTMuNDdMNDAuNDggMTMuNDdMNDAuNDggMTQuNjZMMzcuODIgMTQuNjZMMzcuODIgMjJMMzYuMzUgMjJMMzYuMzUgMTQuNjZaTTQ5LjgyIDIyTDQ0LjI0IDIyTDQ0LjI0IDEzLjQ3TDQ5Ljc4IDEzLjQ3TDQ5Ljc4IDE0LjY2TDQ1LjcyIDE0LjY2TDQ1LjcyIDE3LjAyTDQ5LjIzIDE3LjAyTDQ5LjIzIDE4LjE5TDQ1LjcyIDE4LjE5TDQ1LjcyIDIwLjgyTDQ5LjgyIDIwLjgyTDQ5LjgyIDIyWk01NS41MCAyMkw1NC4wMSAyMkw1NC4wMSAxMy40N0w1Ny4wMSAxMy40N1E1OC40OSAxMy40NyA1OS4yOSAxNC4xM1E2MC4xMCAxNC43OSA2MC4xMCAxNi4wNUw2MC4xMCAxNi4wNVE2MC4xMCAxNi45MCA1OS42OCAxNy40OFE1OS4yNyAxOC4wNiA1OC41MyAxOC4zN0w1OC41MyAxOC4zN0w2MC40NSAyMS45Mkw2MC40NSAyMkw1OC44NiAyMkw1Ny4xNSAxOC43MUw1NS41MCAxOC43MUw1NS41MCAyMlpNNTUuNTAgMTQuNjZMNTUuNTAgMTcuNTJMNTcuMDIgMTcuNTJRNTcuNzcgMTcuNTIgNTguMTkgMTcuMTVRNTguNjEgMTYuNzcgNTguNjEgMTYuMTFMNTguNjEgMTYuMTFRNTguNjEgMTUuNDMgNTguMjIgMTUuMDVRNTcuODMgMTQuNjggNTcuMDYgMTQuNjZMNTcuMDYgMTQuNjZMNTUuNTAgMTQuNjZaTTY2LjUzIDE4Ljg2TDYzLjY2IDEzLjQ3TDY1LjMxIDEzLjQ3TDY3LjI3IDE3LjUxTDY5LjI0IDEzLjQ3TDcwLjg4IDEzLjQ3TDY4LjAyIDE4Ljg2TDY4LjAyIDIyTDY2LjUzIDIyTDY2LjUzIDE4Ljg2Wk03NS44OSAyMkw3NC4xNiAyMkw3Ni44MSAxNy43MEw3NC4yMiAxMy40N0w3NS45MyAxMy40N0w3Ny43MyAxNi41NUw3OS41MiAxMy40N0w4MS4yMyAxMy40N0w3OC42NSAxNy43MEw4MS4yOSAyMkw3OS41NiAyMkw3Ny43MyAxOC44N0w3NS44OSAyMloiIGZpbGw9IiNGRkZGRkYiLz48cGF0aCBjbGFzcz0ic3ZnX190ZXh0IiBkPSIiIGZpbGw9IiNGRkZGRkYiIHg9IjEwNi44MzAwMDAwMDAwMDAwMSIvPjwvc3ZnPg==)
 
 
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9)
-![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
-![Font Awesome](https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white)
-![Github Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)
-
-![Junit5](https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![Jutyper](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![json](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-![LaTex](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
 
-![Python3](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 
-![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -123,9 +144,9 @@
 
 
 
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
 ![Iterm2](https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white)
-![Power7](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![PowerShell7](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
 
 
@@ -138,7 +159,6 @@
 ![Microsoft Edge](https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
 
 
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
 
 
 
@@ -150,4 +170,5 @@
 
 
 
-<!-- <iframe src="https://discord.com/widget?id=666884615717388289&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe> -->
+
+<iframe src="https://discord.com/widget?id=666884615717388289&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
