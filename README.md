@@ -68,7 +68,7 @@ No Activity tracked this Week
 ![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lemonsoldout&theme=vue)
 
 
-
+![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lemonsoldout)
 
 
 
