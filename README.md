@@ -32,12 +32,24 @@
 [![Shell Repo](https://github-readme-stats.vercel.app/api/pin/?username=lemonsoldout&repo=lemon)](https://github.com/lemonsoldout/lemon)
 
 
-## 技能 Skills
+## 已获得技能 Skills
+![MySQL8.x](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MS SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![Microsoft Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
 ![WeChat](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white)
 
 
+## 正在学习
+
+
+
+## 计划学习
+
+
+
+## 云服务 Cloud Server
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Github Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
@@ -59,7 +71,7 @@
 
 ![Alteryx](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI5My44MzAwMDAwMDAwMDAwMSIgaGVpZ2h0PSIzNSIgdmlld0JveD0iMCAwIDkzLjgzMDAwMDAwMDAwMDAxIDM1Ij48cmVjdCBjbGFzcz0ic3ZnX19yZWN0IiB4PSIwIiB5PSIwIiB3aWR0aD0iOTMuODMwMDAwMDAwMDAwMDEiIGhlaWdodD0iMzUiIGZpbGw9IiMzMUM0RjMiLz48cmVjdCBjbGFzcz0ic3ZnX19yZWN0IiB4PSI5My44MzAwMDAwMDAwMDAwMSIgeT0iMCIgd2lkdGg9IjAiIGhlaWdodD0iMzUiIGZpbGw9IiMzODlBRDUiLz48cGF0aCBjbGFzcz0ic3ZnX190ZXh0IiBkPSJNMTUuMDAgMjJMMTMuNDYgMjJMMTYuNjggMTMuNDdMMTguMDEgMTMuNDdMMjEuMjQgMjJMMTkuNjkgMjJMMTguOTkgMjAuMDFMMTUuNjkgMjAuMDFMMTUuMDAgMjJaTTE3LjM0IDE1LjI4TDE2LjEwIDE4LjgyTDE4LjU4IDE4LjgyTDE3LjM0IDE1LjI4Wk0zMC41NSAyMkwyNS4xOSAyMkwyNS4xOSAxMy40N0wyNi42NyAxMy40N0wyNi42NyAyMC44MkwzMC41NSAyMC44MkwzMC41NSAyMlpNMzYuMzUgMTQuNjZMMzMuNzIgMTQuNjZMMzMuNzIgMTMuNDdMNDAuNDggMTMuNDdMNDAuNDggMTQuNjZMMzcuODIgMTQuNjZMMzcuODIgMjJMMzYuMzUgMjJMMzYuMzUgMTQuNjZaTTQ5LjgyIDIyTDQ0LjI0IDIyTDQ0LjI0IDEzLjQ3TDQ5Ljc4IDEzLjQ3TDQ5Ljc4IDE0LjY2TDQ1LjcyIDE0LjY2TDQ1LjcyIDE3LjAyTDQ5LjIzIDE3LjAyTDQ5LjIzIDE4LjE5TDQ1LjcyIDE4LjE5TDQ1LjcyIDIwLjgyTDQ5LjgyIDIwLjgyTDQ5LjgyIDIyWk01NS41MCAyMkw1NC4wMSAyMkw1NC4wMSAxMy40N0w1Ny4wMSAxMy40N1E1OC40OSAxMy40NyA1OS4yOSAxNC4xM1E2MC4xMCAxNC43OSA2MC4xMCAxNi4wNUw2MC4xMCAxNi4wNVE2MC4xMCAxNi45MCA1OS42OCAxNy40OFE1OS4yNyAxOC4wNiA1OC41MyAxOC4zN0w1OC41MyAxOC4zN0w2MC40NSAyMS45Mkw2MC40NSAyMkw1OC44NiAyMkw1Ny4xNSAxOC43MUw1NS41MCAxOC43MUw1NS41MCAyMlpNNTUuNTAgMTQuNjZMNTUuNTAgMTcuNTJMNTcuMDIgMTcuNTJRNTcuNzcgMTcuNTIgNTguMTkgMTcuMTVRNTguNjEgMTYuNzcgNTguNjEgMTYuMTFMNTguNjEgMTYuMTFRNTguNjEgMTUuNDMgNTguMjIgMTUuMDVRNTcuODMgMTQuNjggNTcuMDYgMTQuNjZMNTcuMDYgMTQuNjZMNTUuNTAgMTQuNjZaTTY2LjUzIDE4Ljg2TDYzLjY2IDEzLjQ3TDY1LjMxIDEzLjQ3TDY3LjI3IDE3LjUxTDY5LjI0IDEzLjQ3TDcwLjg4IDEzLjQ3TDY4LjAyIDE4Ljg2TDY4LjAyIDIyTDY2LjUzIDIyTDY2LjUzIDE4Ljg2Wk03NS44OSAyMkw3NC4xNiAyMkw3Ni44MSAxNy43MEw3NC4yMiAxMy40N0w3NS45MyAxMy40N0w3Ny43MyAxNi41NUw3OS41MiAxMy40N0w4MS4yMyAxMy40N0w3OC42NSAxNy43MEw4MS4yOSAyMkw3OS41NiAyMkw3Ny43MyAxOC44N0w3NS44OSAyMloiIGZpbGw9IiNGRkZGRkYiLz48cGF0aCBjbGFzcz0ic3ZnX190ZXh0IiBkPSIiIGZpbGw9IiNGRkZGRkYiIHg9IjEwNi44MzAwMDAwMDAwMDAwMSIvPjwvc3ZnPg==)
 
-## ?
+
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9)
 ![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
