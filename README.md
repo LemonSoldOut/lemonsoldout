@@ -3,14 +3,15 @@
 <!-- 打字效果 -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kdam+Thmor+Pro&color=31F7F2&center=true&vCenter=true&lines=echo+%22%E4%BD%A0%E5%A5%BD+%E4%B8%96%E7%95%8C%EF%BC%81%22)](https://git.io/typing-svg)
 
+<!-- Github 统计记录 -->
 ![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lemonsoldout&theme=vue)
 
+<!-- LeetCode 做题记录 -->
 ![LeetCode Stats](https://stats.justsong.cn/api/leetcode/?username=lemonsoldout)
 
-![](https://img.shields.io/badge/dynamic/json?color=000000&label=GitHub&query=%24.data.totalSubs&suffix=%20followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DWonz5130)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lemonsoldout&theme=blood)](https://git.io/streak-stats)
-
+<!-- 编程语言使用百分比 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lemonsoldout)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lemonsoldout)
