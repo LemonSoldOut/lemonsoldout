@@ -16,8 +16,9 @@
 <!-- 编程语言使用百分比 -->
 
 <div>
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lemonsoldout&layout=compact" style="max-width: 100%;">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=lemonsoldout&show_icons=true&theme=dracula" style="max-width: 100%;">
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=lemonsoldout&show_icons=true&theme=dracula" style="max-width: 100%;">
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lemonsoldout&layout=compact" style="max-width: 100%;">
+  
 </div>
 
 
