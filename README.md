@@ -12,7 +12,8 @@
 <!-- 编程语言使用百分比 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lemonsoldout)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lemonsoldout&repo=shell)](https://github.com/lemonsoldout/shell)
 
 ![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lemonsoldout)
 
