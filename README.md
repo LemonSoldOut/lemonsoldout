@@ -6,18 +6,19 @@
 <!-- Github 统计记录 -->
 ![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lemonsoldout&theme=vue)
 ![Github activity graph](https://activity-graph.herokuapp.com/graph?username=lemonsoldout&theme=github)
+<!-- 编程语言使用百分比 -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lemonsoldout&layout=compact)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=lemonsoldout&show_icons=true&theme=dracula)
 
 
 <!-- LeetCode 做题记录 -->
 ![LeetCode Stats](https://stats.justsong.cn/api/leetcode/?username=lemonsoldout)
 
-<!-- 编程语言使用百分比 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lemonsoldout)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!-- 想要展示的 REPO -->
 [![Shell Repo](https://github-readme-stats.vercel.app/api/pin/?username=lemonsoldout&repo=shell)](https://github.com/lemonsoldout/shell)
-[![Shell Repo](https://github-readme-stats.vercel.app/api/pin/?username=lemonsoldout&repo=shell)](https://github.com/lemonsoldout/shell)
+[![Shell Repo](https://github-readme-stats.vercel.app/api/pin/?username=lemonsoldout&repo=lemon)](https://github.com/lemonsoldout/lemon)
 
 
 ## 技能 Skills
