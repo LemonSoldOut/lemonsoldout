@@ -7,9 +7,9 @@ No Activity tracked this Week
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kdam+Thmor+Pro&color=31F7F2&center=true&vCenter=true&lines=echo+%22%E4%BD%A0%E5%A5%BD+%E4%B8%96%E7%95%8C%EF%BC%81%22)](https://git.io/typing-svg)
 
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> 
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> 
-<img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" />
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+
 
 <a href="https://github.com/snowdreams1006"><img src="https://img.shields.io/badge/github-snowdreams1006-brightgreen.svg" alt="github"></a>
 
