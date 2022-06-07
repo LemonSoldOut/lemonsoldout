@@ -11,6 +11,10 @@
 - 一只沉迷各种稀奇古怪知识的 Coder
 - "论 Zoom University 的硕士学位竞争力"
 - 会多种语言 "Hello World" 的打印方式
+![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/lemonsoldout)
+![Microsoft Teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
 ## Github stats
 
