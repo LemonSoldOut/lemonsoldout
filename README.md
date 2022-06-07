@@ -20,16 +20,16 @@
   
 </div>
 
-## LeetCode
-<!-- LeetCode 做题记录 -->
-![LeetCode Stats](https://stats.justsong.cn/api/leetcode/?username=lemonsoldout)
-
 
 ## Pinned REPO
 <!-- 想要展示的 REPO -->
 [![Shell Repo](https://github-readme-stats.vercel.app/api/pin/?username=lemonsoldout&repo=shell)](https://github.com/lemonsoldout/shell)
 [![Shell Repo](https://github-readme-stats.vercel.app/api/pin/?username=lemonsoldout&repo=lemon)](https://github.com/lemonsoldout/lemon)
 
+
+## LeetCode
+<!-- LeetCode 做题记录 -->
+![LeetCode Stats](https://stats.justsong.cn/api/leetcode/?username=lemonsoldout)
 
 ## 已获得技能 Skills
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
