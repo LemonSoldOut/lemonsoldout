@@ -7,7 +7,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kdam+Thmor+Pro&color=31F7F2&center=true&vCenter=true&lines=echo+%22%E4%BD%A0%E5%A5%BD+%E4%B8%96%E7%95%8C%EF%BC%81%22)](https://git.io/typing-svg)
 
 ## whoami
-
+> NEU DAMG(数据架构与管理) 在读研究生
+> 一只沉迷各种稀奇古怪知识的 Coder
+> "论 Zoom University 的硕士学位竞争力"
+> 会多种语言 "Hello World" 的打印方式
 
 ## Github stats
 <!-- Github 统计记录 -->
