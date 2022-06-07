@@ -7,7 +7,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kdam+Thmor+Pro&duration=7000&center=true&vCenter=true&lines=Do+one+thing+at+a+time%2C+and+do+well.)](https://git.io/typing-svg)
 
 ## whoami
-![code](https://fastly.jsdelivr.net/gh/lemonsoldout/blog_links@main/1654568614328R.png)
 - NEU DAMG(数据架构与管理) 在读研究生
 - 一只沉迷各种稀奇古怪知识的 Coder
 - "论 Zoom University 的硕士学位竞争力"
