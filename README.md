@@ -13,7 +13,7 @@
 - 会多种语言 "Hello World" 的打印方式
 
 <div>
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+  <a href="https://discord.gg/KndDQvhqCw"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="https://www.github.com/lemonsoldout"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </div>
 
