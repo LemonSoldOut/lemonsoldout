@@ -146,4 +146,3 @@
 <!-- Github 统计记录 -->
 ![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lemonsoldout&theme=vue)
 ![Github activity graph](https://activity-graph.herokuapp.com/graph?username=lemonsoldout&theme=github)
-<!-- 编程语言使用百分比 -->
