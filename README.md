@@ -4,7 +4,7 @@
 
 ## Hello
 <!-- 打字效果 -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kdam+Thmor+Pro&duration=7000&center=true&vCenter=true&lines=Do+one+thing+at+a+time%2C+and+do+well.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1FF7F1&lines=%E6%83%8A%E8%9B%99%E4%B8%8D%E5%8F%AF%E8%AF%AD%E5%A4%A9%EF%BC%8C%E6%8B%9F%E4%BA%8E%E8%99%9A%E4%B9%9F;%E5%A4%8F%E8%99%AB%E4%B8%8D%E5%8F%AF%E8%AF%AD%E5%86%B0%EF%BC%8C%E6%8B%98%E4%BA%8E%E6%97%B6%E4%B9%9F;%E6%9B%B2%E5%A3%AB%E4%B8%8D%E5%8F%AF%E8%AF%AD%E9%81%93%EF%BC%8C%E6%9D%9F%E4%BA%8E%E6%95%99%E4%B9%9F)](https://git.io/typing-svg)
 
 ## whoami
 - NEU DAMG(数据架构与管理) 在读研究生
