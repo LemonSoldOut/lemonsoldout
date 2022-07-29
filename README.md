@@ -30,7 +30,7 @@
 ## Pinned REPO
 <!-- 想要展示的 REPO -->
 [![Shell Repo](https://github-readme-stats.vercel.app/api/pin/?username=lemonsoldout&repo=shell&theme=dark&bg_color=0d1117&hide_border=true)](https://github.com/lemonsoldout/shell)
-[![Notes Repo](https://github-readme-stats.vercel.app/api/pin/?username=lemonsoldout&repo=lemon&theme=dark&bg_color=0d1117&hide_border=true)](https://github.com/lemonsoldout/Notes)
+[![Notes Repo](https://github-readme-stats.vercel.app/api/pin/?username=lemonsoldout&repo=Notes&theme=dark&bg_color=0d1117&hide_border=true)](https://github.com/lemonsoldout/Notes)
 [![Big-Data-Systems-Intelligence-Analytics-Labs-Summer-2022](https://github-readme-stats.vercel.app/api/pin/?username=lemonsoldout&repo=Big-Data-Systems-Intelligence-Analytics-Labs-Summer-2022&theme=dark&bg_color=0d1117&hide_border=true)](https://github.com/LemonSoldOut/Big-Data-Systems-Intelligence-Analytics-Labs-Summer-2022)
 [![Config Repo](https://github-readme-stats.vercel.app/api/pin/?username=lemonsoldout&repo=config&theme=dark&bg_color=0d1117&hide_border=true)](https://github.com/lemonsoldout/config)
  
