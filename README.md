@@ -19,6 +19,7 @@
 
 
 ## Github stats
+<img src="http://ghchart.rshah.org/ff6348/lemonsoldout" alt="今日摸鱼's Github chart"/>
 
 <div>
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=lemonsoldout&show_icons=true&theme=dracula" style="max-width: 100%;">
