@@ -29,7 +29,7 @@
 
 ## Pinned REPO
 <!-- 想要展示的 REPO -->
-[![图床](https://github-readme-stats.vercel.app/api/pin/?username=lemonsoldout&repo=shell&theme=dark&bg_color=0d1117&hide_border=true)](https://github.com/lemonsoldout/pictures)
+[![图床](https://github-readme-stats.vercel.app/api/pin/?username=lemonsoldout&repo=pictures&theme=dark&bg_color=0d1117&hide_border=true)](https://github.com/lemonsoldout/pictures)
 [![博客代码备份](https://github-readme-stats.vercel.app/api/pin/?username=lemonsoldout&repo=Notes&theme=dark&bg_color=0d1117&hide_border=true)](https://github.com/lemonsoldout/Notes)
 [![Big-Data-Systems-Intelligence-Analytics-Labs-Summer-2022](https://github-readme-stats.vercel.app/api/pin/?username=lemonsoldout&repo=DAMG-7245---Final-Project&theme=dark&bg_color=0d1117&hide_border=true)](https://github.com/LemonSoldOut/DAMG-7245---Final-Project)
 [![Config Repo](https://github-readme-stats.vercel.app/api/pin/?username=lemonsoldout&repo=config&theme=dark&bg_color=0d1117&hide_border=true)](https://github.com/lemonsoldout/config)
