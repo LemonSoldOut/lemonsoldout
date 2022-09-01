@@ -3,8 +3,7 @@
 
 
 ## Hello
-<!-- 打字效果 -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1FF7F1&lines=%E6%83%8A%E8%9B%99%E4%B8%8D%E5%8F%AF%E8%AF%AD%E5%A4%A9%EF%BC%8C%E6%8B%9F%E4%BA%8E%E8%99%9A%E4%B9%9F;%E5%A4%8F%E8%99%AB%E4%B8%8D%E5%8F%AF%E8%AF%AD%E5%86%B0%EF%BC%8C%E6%8B%98%E4%BA%8E%E6%97%B6%E4%B9%9F;%E6%9B%B2%E5%A3%AB%E4%B8%8D%E5%8F%AF%E8%AF%AD%E9%81%93%EF%BC%8C%E6%9D%9F%E4%BA%8E%E6%95%99%E4%B9%9F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Noto+Sans+Simplified+Chinese&duration=6000&pause=1000&color=41E9F7&center=true&vCenter=true&width=435&lines=%E4%BA%BA%E7%94%9F%E5%BE%97%E6%84%8F%E9%A1%BB%E5%B0%BD%E6%AC%A2%EF%BC%8C%E8%8E%AB%E4%BD%BF%E9%87%91%E6%A8%BD%E7%A9%BA%E5%AF%B9%E6%9C%88%E3%80%82;%E3%80%8A%E5%B0%86%E8%BF%9B%E9%85%92%E3%80%8B+%E6%9D%8E%E7%99%BD)](https://git.io/typing-svg)
 
 ## whoami
 - NEU DAMG(数据架构与管理) 在读研究生
@@ -57,17 +56,18 @@
 ![MS SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
-
-
+![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
 ## 正在学习
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
+
+
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
-
+![NeoVim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## 计划学习
 ![Electron](https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9)
@@ -78,6 +78,7 @@
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324)
 ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
+![Raspberry PI](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
 
 ## 数据库 Databases
 ![MySQL8.x](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
@@ -89,59 +90,22 @@
 ## 学习 Website
 ![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347)
 ![MDN](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
-
-## ETL 工具
-![Talend](https://img.shields.io/badge/Talend-FF6D70?style=for-the-badge&logo=Talend&logoColor=white)
-
-![Alteryx](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI5My44MzAwMDAwMDAwMDAwMSIgaGVpZ2h0PSIzNSIgdmlld0JveD0iMCAwIDkzLjgzMDAwMDAwMDAwMDAxIDM1Ij48cmVjdCBjbGFzcz0ic3ZnX19yZWN0IiB4PSIwIiB5PSIwIiB3aWR0aD0iOTMuODMwMDAwMDAwMDAwMDEiIGhlaWdodD0iMzUiIGZpbGw9IiMzMUM0RjMiLz48cmVjdCBjbGFzcz0ic3ZnX19yZWN0IiB4PSI5My44MzAwMDAwMDAwMDAwMSIgeT0iMCIgd2lkdGg9IjAiIGhlaWdodD0iMzUiIGZpbGw9IiMzODlBRDUiLz48cGF0aCBjbGFzcz0ic3ZnX190ZXh0IiBkPSJNMTUuMDAgMjJMMTMuNDYgMjJMMTYuNjggMTMuNDdMMTguMDEgMTMuNDdMMjEuMjQgMjJMMTkuNjkgMjJMMTguOTkgMjAuMDFMMTUuNjkgMjAuMDFMMTUuMDAgMjJaTTE3LjM0IDE1LjI4TDE2LjEwIDE4LjgyTDE4LjU4IDE4LjgyTDE3LjM0IDE1LjI4Wk0zMC41NSAyMkwyNS4xOSAyMkwyNS4xOSAxMy40N0wyNi42NyAxMy40N0wyNi42NyAyMC44MkwzMC41NSAyMC44MkwzMC41NSAyMlpNMzYuMzUgMTQuNjZMMzMuNzIgMTQuNjZMMzMuNzIgMTMuNDdMNDAuNDggMTMuNDdMNDAuNDggMTQuNjZMMzcuODIgMTQuNjZMMzcuODIgMjJMMzYuMzUgMjJMMzYuMzUgMTQuNjZaTTQ5LjgyIDIyTDQ0LjI0IDIyTDQ0LjI0IDEzLjQ3TDQ5Ljc4IDEzLjQ3TDQ5Ljc4IDE0LjY2TDQ1LjcyIDE0LjY2TDQ1LjcyIDE3LjAyTDQ5LjIzIDE3LjAyTDQ5LjIzIDE4LjE5TDQ1LjcyIDE4LjE5TDQ1LjcyIDIwLjgyTDQ5LjgyIDIwLjgyTDQ5LjgyIDIyWk01NS41MCAyMkw1NC4wMSAyMkw1NC4wMSAxMy40N0w1Ny4wMSAxMy40N1E1OC40OSAxMy40NyA1OS4yOSAxNC4xM1E2MC4xMCAxNC43OSA2MC4xMCAxNi4wNUw2MC4xMCAxNi4wNVE2MC4xMCAxNi45MCA1OS42OCAxNy40OFE1OS4yNyAxOC4wNiA1OC41MyAxOC4zN0w1OC41MyAxOC4zN0w2MC40NSAyMS45Mkw2MC40NSAyMkw1OC44NiAyMkw1Ny4xNSAxOC43MUw1NS41MCAxOC43MUw1NS41MCAyMlpNNTUuNTAgMTQuNjZMNTUuNTAgMTcuNTJMNTcuMDIgMTcuNTJRNTcuNzcgMTcuNTIgNTguMTkgMTcuMTVRNTguNjEgMTYuNzcgNTguNjEgMTYuMTFMNTguNjEgMTYuMTFRNTguNjEgMTUuNDMgNTguMjIgMTUuMDVRNTcuODMgMTQuNjggNTcuMDYgMTQuNjZMNTcuMDYgMTQuNjZMNTUuNTAgMTQuNjZaTTY2LjUzIDE4Ljg2TDYzLjY2IDEzLjQ3TDY1LjMxIDEzLjQ3TDY3LjI3IDE3LjUxTDY5LjI0IDEzLjQ3TDcwLjg4IDEzLjQ3TDY4LjAyIDE4Ljg2TDY4LjAyIDIyTDY2LjUzIDIyTDY2LjUzIDE4Ljg2Wk03NS44OSAyMkw3NC4xNiAyMkw3Ni44MSAxNy43MEw3NC4yMiAxMy40N0w3NS45MyAxMy40N0w3Ny43MyAxNi41NUw3OS41MiAxMy40N0w4MS4yMyAxMy40N0w3OC42NSAxNy43MEw4MS4yOSAyMkw3OS41NiAyMkw3Ny43MyAxOC44N0w3NS44OSAyMloiIGZpbGw9IiNGRkZGRkYiLz48cGF0aCBjbGFzcz0ic3ZnX190ZXh0IiBkPSIiIGZpbGw9IiNGRkZGRkYiIHg9IjEwNi44MzAwMDAwMDAwMDAwMSIvPjwvc3ZnPg==)
-
-
-
-## 系统 OS
-![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Manjaro](https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Raspberry PI](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
-
-## 编辑器 Editor
-![NeoVim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
-![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
-![VSC](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Sublimt Text4](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
-
-## IDE
-![Webstorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white)
-![Pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
-![Idea](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
-
-## 浏览器
-![Chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
-![Microsoft Edge](https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
-![Safari](https://img.shields.io/badge/Safari-FF1B2D?style=for-the-badge&logo=Safari&logoColor=white)
-
-## 服务
 ![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)
+
+
+## Github 服务
 ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)
-![Github Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Github Actions - CI/CD](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ## 云服务 Cloud Server
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-
-## 终端 Terminal
-![Iterm2](https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white)
-![PowerShell7](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
 
 ----
 <!-- Github 统计记录 -->
