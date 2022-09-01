@@ -36,7 +36,7 @@
  
 ## LeetCode
 <!-- LeetCode 做题记录 -->
-![LeetCode Stats](https://stats.justsong.cn/api/leetcode/?username=lemonsoldout&cn=true)
+![LeetCode 做题记录](https://stats.justsong.cn/api/leetcode/?username=lemonsoldout&cn=true)
 
 ## 已获得技能 Skills
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
